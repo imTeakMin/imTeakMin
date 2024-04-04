@@ -2,8 +2,8 @@
 
 ## Introduction
 안녕하세요.
-sw프로세서를 좋아합니다.
 최근관심을 가지고 보고 있는 분야는 [c++]와 [Github] 입니다.
+저의 목표는 게임 개발자입니다.
 
 ## Career
 - 영남대학교 재학생
@@ -14,6 +14,8 @@ sw프로세서를 좋아합니다.
 ## Course of study
 - Understading of OSS
 - Programming C++
+- Logic Circuit
+- Open Source Software
 
 
 <!--
