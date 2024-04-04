@@ -1,21 +1,23 @@
-### Hi there 👋
+### Hello 👋
 
 ## Introduction
 안녕하세요.
-최근관심을 가지고 보고 있는 분야는 [c++]와 [Github] 입니다.
-저의 목표는 게임 개발자입니다.
+최근관심을 가지고 보고 있는 분야는 **[c++]** 와 **[Github]** 입니다.
 
 ## Career
 - 영남대학교 재학생
 
+## Dream
+🌱**게임개발자**🌱
+
 ## Links
-- E-mail - uh06056@gmail.com
+- 💬E-mail - uh06056@gmail.com💬
 
 ## Course of study
-- Understading of OSS
-- Programming C++
-- Logic Circuit
-- Open Source Software
+- **Understading of OSS**
+- **Programming C++**
+- **Logic Circuit**
+- **Open Source Software**
 
 
 <!--
