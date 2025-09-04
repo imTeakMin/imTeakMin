@@ -7,22 +7,8 @@
 ## Career
 - **영남대학교 컴퓨터공학과 재학생**
 
-## Dream
-- 🌱**게임개발자**🌱
-
-## Favorite
-- 🎵**나는 아픈 건 딱 질색이니까-(여자)아이들**🎵
-- 📖**C++ 공부**📖
-- 🎮**League Of Legends**🎮
-
 ## Links
 - 💬**E-mail** - uh06056@gmail.com💬
-
-## Course of study
-- **Understading of OSS**
-- **Programming C++**
-- **Logic Circuit**
-- **Open Source Software**
 
 
 <!--
